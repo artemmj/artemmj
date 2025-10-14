@@ -6,7 +6,7 @@
 
 - 🧠 Фокус на: **Разработка масштабируемых**, **надёжных** и **архитектурно грамотных** систем.
 - 🌱 Из нового изучаю: **Frontend**, **Kubernetes**, **GoLang**.
-- 📫 Как связаться: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: [@artemmj](https://telegram.org)
+- 📫 Как связаться: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: [@artemmj](https://telegram.org/artemmj)
 
 ---
 
