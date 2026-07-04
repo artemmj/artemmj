@@ -1,24 +1,56 @@
 ### 👋 Привет! Я Артем.
 
-**Python Backend Developer** с опытом в **микросервисах**, **асинхронности** и **чистой архитектуре**.
+### **Senior Python-Focused Fullstack Developer | Solutions Architect**
+Проектирую и реализую **Full-cycle web-решения**: от высоконагруженной бэкенд-архитектуры и инфраструктуры до клиентской логики и UX. Управляю техническим качеством продукта на всех этапах жизненного цикла.
 
 - 📍 Россия, Воронеж
-
-- 🧠 Фокус на: **Разработка масштабируемых**, **надёжных** и **архитектурно грамотных** систем.
-- 🌱 Из нового изучаю: **Frontend**, **GoLang**.
-- 📫 Как связаться: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: @artemmj
-
+- 🧠 Ключевая экспертиза: **Архитектура распределенных систем**, **Оптимизация производительности**, **Technical Leadership**.
+- 🌱 Текущий фокус: **GoLang**, **Event-Driven Architecture**, **WebAssembly**.
+- 📫 Контакты: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: @artemmj
 ---
+### 🧩 Архитектурные компетенции (System Design & Management)
+*   **Проектирование систем:** Выбор между **Monolith-first** и **Microservices** (стратегия декомпозиции), проектирование **API Gateway**, схем распределенных транзакций (Saga, 2PC).
+*   **Интеграционные паттерны:** Message-driven архитектура, Event Sourcing + CQRS, работа с брокерами (Kafka/RabbitMQ) для обеспечения **Eventually Consistency**.
+*   **Инфраструктурные решения:** Настройка **High Availability** (репликация БД, шардирование), балансировка нагрузки (Nginx/HAProxy), контейнеризация и оркестрация (Docker Compose / Kubernetes — базово).
+*   **Security & Compliance:** Реализация RBAC/ABAC, OAuth2/JWT, защита API (Rate Limiting, CORS-политики), аудит действий пользователей.
+*   **Performance Tuning:** Профилирование бэкенда (Asyncio, пулы соединений), оптимизация N+1 запросов в БД, кэширование на уровнях (CDN, Redis, in-memory), настройка индексов и партиционирования в PostgreSQL.
+---
+### 🛠 Технический стек (Hands-on Skills)
+*   **Backend (Ядро):** Python 3.11+ (Asyncio, Aiohttp, FastAPI, Django/DRF), SQLAlchemy, Alembic, Pydantic V2, **Go** (для высокопроизводительных утилит).
+*   **Frontend (Интерактивность):** **JavaScript (ES6+)**, **Vue.js (Composition API)**, **React (Hooks)**, HTML5/CSS3, Axios/Fetch, базовое понимание Webpack/Vite.
+*   **Базы данных и Хранилища:** PostgreSQL (оптимизация, партиционирование), Redis (кэширование, сессии, очереди), MongoDB / ClickHouse (аналитика).
+*   **Брокеры и Stream-обработка:** Kafka, RabbitMQ, FastStream, Celery (распределенные задачи, тайминги).
+*   **DevOps & Observability:** Docker, Docker Compose, GitLab CI/CD, GitHub Actions, Nginx, Linux (администрирование), мониторинг (Prometheus + Grafana + AlertManager), сбор логов (ELK / Loki).
+*   **Тестирование:** Стратегии тестирования (Test Pyramid), Pytest, unittest, интеграционные тесты, нагрузочное тестирование (Locust / JMeter).
+---
+### 👥 Управление командой и качеством (Team & Process)
+*   **Technical Leadership:** Наставничество (1-на-1), планирование спринтов, участие в оценке Story Points, помощь команде в unblocking сложных задач.
+*   **Quality Assurance:** Внедрение **Code Review Culture**, определение и контроль метрик качества кода (SonarQube), написание гайдлайнов по стилю кода (PEP8, ESLint).
+*   **Управление техническим долгом:** Рефакторинг легаси, миграция данных с минимальным даунтаймом, написание ADR (Architecture Decision Records).
+*   **SDLC:** Построение пайплайнов CI/CD (линтеры, автотесты, сборка артефактов, деплой).
+---
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.4-brightgreen?style=flat&logo=vue.js)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-18.3-blue?style=flat&logo=react)](https://reactjs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-3.6-black?style=flat&logo=apachekafka)](https://kafka.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-27.3-blue?style=flat&logo=docker)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
+---
+### 📂 Pet-проекты (Демонстрация архитектурного подхода)
+*   **[Enterprise Task Manager](https://github.com/yourusername/task-manager-pro)** (Django + Vue.js)
+    *   **Архитектура:** Модульный монолит с четким разделением на DDD-слои (Application/Domain/Infrastructure).
+    *   **Интеграция:** Настройка Fullstack-взаимодействия через DRF + JWT-аутентификацию. Vue 3 SPA проксируется через Nginx с настроенными CORS-политиками.
+    *   **Инфраструктура:** Docker Compose для локальной разработки (API + Frontend + PostgreSQL + Redis + Nginx).
 
-### 🛠 Навыки
+*   **[Real-time Metrics Dashboard](https://github.com/yourusername/realtime-dashboard)** (FastAPI + React)
+    *   **Архитектура:** Микросервис на FastAPI + фоновый воркер Celery для агрегации. Отдача данных через WebSockets (меньше нагрузки на БД).
+    *   **Фронтенд:** React с использованием контекста для управления состоянием WebSocket-соединений и визуализацией через Recharts.
+    *   **Нагрузка:** Добавлен Rate Limiting на уровне Nginx для защиты от DDoS, результаты нагрузочного тестирования приложены (до 5k RPS).
 
-*   **Языки и Фреймворки:** Python 3.11+, Asyncio, Aiohttp, Aiogram, FastAPI, Django, Django REST Framework, FastAPI, SQLAlchemy, Alembic, Pydantic | **Go (junior level)**
-*   **Базы данных и Хранилища:** PostgreSQL, Redis, Asyncpg, SQL (оптимизация запросов, индексы)
-*   **Брокеры сообщений и Event-системы:** FastStream, RabbitMQ, Kafka, Celery
-*   **Архитектура и Методологии:** Микросервисная и монолитная архитектуры, REST API, gRPC, Event Sourcing, CQRS, Message-driven Design, Domain-driven design
-*   **Инфраструктура и DevOps:** Docker, Docker Compose, GitLab CI/CD, Nginx, Linux
-*   **Тестирование и Качество:** Pytest, unittest, pytest-asyncio, нагрузочное тестированиe
-*   **Мониторинг и Observability:** Prometheus, Grafana
-*   **Принципы разработки:** SOLID, DRY, KISS, Code Review, Agile/Scrum
-*   **Управление кодом и Работа в команде:** Наставничество, проведение код-ревью, внедрение стандартов кодирования (Code Review, Code Style), учет работы
-*   **Frontend (базовый уровень):** **Vue.js**, JavaScript (ES6+), HTML5, CSS3
+*   **[Async Notification Service](https://github.com/yourusername/notification-service)** (Aiohttp + Kafka)
+    *   **Архитектура:** Event-Driven микросервис. Потребляет события из Kafka, обогащает данные и отправляет уведомления (Telegram/SMTP) асинхронно.
+    *   **Управление данными:** Использован паттерн Outbox для гарантированной доставки событий вместе с транзакциями БД.
