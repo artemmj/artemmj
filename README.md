@@ -1,7 +1,7 @@
 ### 👋 Привет! Я Артем.
 
 ### **Senior Python-Focused Fullstack Developer | Solutions Architect**
-Проектирую и реализую **Full-cycle web-решения**: от высоконагруженной бэкенд-архитектуры и инфраструктуры до клиентской логики и UX. Управляю техническим качеством продукта на всех этапах жизненного цикла.
+Проектирую и реализую **Полноцикловые web-решения**: от высоконагруженной бэкенд-архитектуры и инфраструктуры до клиентской логики и UX. Управляю техническим качеством продукта на всех этапах жизненного цикла.
 
 - 📍 Россия, Воронеж
 - 🧠 Ключевая экспертиза: **Архитектура распределенных систем**, **Оптимизация производительности**, **Technical Leadership**.
@@ -24,9 +24,9 @@
 *   **Тестирование:** Стратегии тестирования (Test Pyramid), Pytest, unittest, интеграционные тесты, нагрузочное тестирование (Locust / JMeter).
 ---
 ### 👥 Управление командой и качеством (Team & Process)
-*   **Technical Leadership:** Наставничество (1-на-1), планирование спринтов, участие в оценке Story Points, помощь команде в unblocking сложных задач.
+*   **Technical Leadership:** Наставничество (1-на-1), планирование спринтов, участие в оценке Story Points, помощь команде в разблокировке сложных задач.
 *   **Quality Assurance:** Внедрение **Code Review Culture**, определение и контроль метрик качества кода (SonarQube), написание гайдлайнов по стилю кода (PEP8, ESLint).
-*   **Управление техническим долгом:** Рефакторинг легаси, миграция данных с минимальным даунтаймом, написание ADR (Architecture Decision Records).
+*   **Управление техническим долгом:** Рефакторинг легаси, миграция данных, написание ADR (Architecture Decision Records).
 *   **SDLC:** Построение пайплайнов CI/CD (линтеры, автотесты, сборка артефактов, деплой).
 ---
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)](https://www.python.org/)
@@ -40,7 +40,9 @@
 [![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
 ---
+
 ### 📂 Pet-проекты (Демонстрация архитектурного подхода)
+
 *   **[Enterprise Task Manager](https://github.com/yourusername/task-manager-pro)** (Django + Vue.js)
     *   **Архитектура:** Модульный монолит с четким разделением на DDD-слои (Application/Domain/Infrastructure).
     *   **Интеграция:** Настройка Fullstack-взаимодействия через DRF + JWT-аутентификацию. Vue 3 SPA проксируется через Nginx с настроенными CORS-политиками.
