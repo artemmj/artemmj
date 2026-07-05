@@ -5,7 +5,7 @@
 
 - 📍 Россия, Воронеж
 - 🧠 Ключевая экспертиза: **Архитектура распределенных систем**, **Оптимизация производительности**, **Technical Leadership**.
-- 🌱 Текущий фокус: **GoLang**, **Event-Driven Architecture**, **WebAssembly**.
+- 🌱 Текущий фокус: **Python**, **GoLang**, **Event-Driven Architecture**, **WebAssembly**.
 - 📫 Контакты: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: @artemmj
 ---
 ### 🧩 Архитектурные компетенции (System Design & Management)
