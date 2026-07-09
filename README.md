@@ -40,19 +40,3 @@
 [![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
 ---
-
-### 📂 Pet-проекты (Демонстрация архитектурного подхода)
-
-*   **[Enterprise Task Manager](https://github.com/yourusername/task-manager-pro)** (Django + Vue.js)
-    *   **Архитектура:** Модульный монолит с четким разделением на DDD-слои (Application/Domain/Infrastructure).
-    *   **Интеграция:** Настройка Fullstack-взаимодействия через DRF + JWT-аутентификацию. Vue 3 SPA проксируется через Nginx с настроенными CORS-политиками.
-    *   **Инфраструктура:** Docker Compose для локальной разработки (API + Frontend + PostgreSQL + Redis + Nginx).
-
-*   **[Real-time Metrics Dashboard](https://github.com/yourusername/realtime-dashboard)** (FastAPI + React)
-    *   **Архитектура:** Микросервис на FastAPI + фоновый воркер Celery для агрегации. Отдача данных через WebSockets (меньше нагрузки на БД).
-    *   **Фронтенд:** React с использованием контекста для управления состоянием WebSocket-соединений и визуализацией через Recharts.
-    *   **Нагрузка:** Добавлен Rate Limiting на уровне Nginx для защиты от DDoS, результаты нагрузочного тестирования приложены (до 5k RPS).
-
-*   **[Async Notification Service](https://github.com/yourusername/notification-service)** (Aiohttp + Kafka)
-    *   **Архитектура:** Event-Driven микросервис. Потребляет события из Kafka, обогащает данные и отправляет уведомления (Telegram/SMTP) асинхронно.
-    *   **Управление данными:** Использован паттерн Outbox для гарантированной доставки событий вместе с транзакциями БД.
