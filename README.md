@@ -29,7 +29,7 @@
 *   **Управление техническим долгом:** Рефакторинг легаси, миграция данных, написание ADR (Architecture Decision Records).
 *   **SDLC:** Построение пайплайнов CI/CD (линтеры, автотесты, сборка артефактов, деплой).
 
-## 🚀 Пет-проекты
+### 🚀 Пет-проекты
 
 ### [Metrics Dashboard](https://github.com/username/metrics-dashboard)
 
@@ -44,27 +44,6 @@
 - Потоковая передача метрик через WebSocket и Redis Pub/Sub
 - SPA на Vue 3 с управлением состоянием через Pinia
 - Полная контейнеризация — запуск одной командой docker compose up
-
----
-
-### [Название второго проекта](https://github.com/username/another-project)
-Краткое описание проекта в одну-две строки.
-
-**Стек:** Технология1 • Технология2 • Технология3  
-**Возможности:**
-- Первая ключевая фича
-- Вторая ключевая фича
-- Третья ключевая фича
-
----
-
-### [Название третьего проекта](https://github.com/username/third-project)
-Ещё одно краткое описание.
-
-**Стек:** Технология1 • Технология2 • Технология3  
-**Возможности:**
-- Фича раз
-- Фича два
 ---
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
