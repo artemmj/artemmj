@@ -8,6 +8,17 @@
 - 🌱 Текущий фокус: **Python**, **GoLang**, **Event-Driven Architecture**, **WebAssembly**.
 - 📫 Контакты: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: @artemmj
 ---
+[![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.4-brightgreen?style=flat&logo=vue.js)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-18.3-blue?style=flat&logo=react)](https://reactjs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-3.6-black?style=flat&logo=apachekafka)](https://kafka.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-27.3-blue?style=flat&logo=docker)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
+---
 ### 🧩 Архитектурные компетенции (System Design & Management)
 *   **Проектирование систем:** Выбор между **Monolith-first** и **Microservices** (стратегия декомпозиции), проектирование **API Gateway**, схем распределенных транзакций (Saga, 2PC).
 *   **Интеграционные паттерны:** Message-driven архитектура, Event Sourcing + CQRS, работа с брокерами (Kafka/RabbitMQ) для обеспечения **Eventually Consistency**.
@@ -44,15 +55,4 @@
 - Потоковая передача метрик через WebSocket и Redis Pub/Sub
 - SPA на Vue 3 с управлением состоянием через Pinia
 - Полная контейнеризация — запуск одной командой docker compose up
----
-[![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.4-brightgreen?style=flat&logo=vue.js)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-18.3-blue?style=flat&logo=react)](https://reactjs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-3.6-black?style=flat&logo=apachekafka)](https://kafka.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-27.3-blue?style=flat&logo=docker)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
 ---
