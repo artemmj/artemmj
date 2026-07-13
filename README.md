@@ -45,7 +45,7 @@
 - SPA на Vue 3 с управлением состоянием через Pinia
 - Полная контейнеризация — запуск одной командой docker compose up
 ---
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.4-brightgreen?style=flat&logo=vue.js)](https://vuejs.org/)
