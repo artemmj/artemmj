@@ -31,7 +31,7 @@
 
 ### 🚀 Пет-проекты
 
-### [Metrics Dashboard](https://github.com/username/metrics-dashboard)
+### [Metrics Dashboard](https://github.com/artemmj/realtime-metrics-dashboard)
 
 **Примечание**: Находится в разработке! Многое не доделано, но отражена основная архитектура
 
