@@ -12,7 +12,6 @@
 [![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.4-brightgreen?style=flat&logo=vue.js)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-18.3-blue?style=flat&logo=react)](https://reactjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-3.6-black?style=flat&logo=apachekafka)](https://kafka.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-27.3-blue?style=flat&logo=docker)](https://www.docker.com/)
