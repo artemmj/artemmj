@@ -5,8 +5,8 @@
 
 - 📍 Россия, Воронеж
 - 🧠 Ключевая экспертиза: **Архитектура распределенных систем**, **Оптимизация производительности**, **Technical Leadership**.
-- 🌱 Текущий фокус: **Python**, **GoLang**, **Event-Driven Architecture**, **WebAssembly**.
-- 📫 Контакты: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | TG: @artemmj
+- 🌱 Текущий фокус: **Python**, **TypeScript**.
+- 📫 Контакты: [web.ep4@gmail.com](mailto:web.ep4@gmail.com) | telegram: @artemmj
 ---
 [![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.0-green?style=flat&logo=django)](https://www.djangoproject.com/)
