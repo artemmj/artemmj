@@ -31,33 +31,6 @@
 [![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
 
----
-
-### 🧩 Архитектурные компетенции (System Design & Management)
-*   **Проектирование систем:** Выбор между **Monolith-first** и **Microservices** (стратегия декомпозиции), проектирование **API Gateway**, схем распределенных транзакций (Saga, 2PC).
-*   **Интеграционные паттерны:** Message-driven архитектура, Event Sourcing + CQRS, работа с брокерами (Kafka/RabbitMQ) для обеспечения **Eventually Consistency**.
-*   **Инфраструктурные решения:** Настройка **High Availability** (репликация БД, шардирование), балансировка нагрузки (Nginx/HAProxy), контейнеризация и оркестрация (Docker Compose / Kubernetes — базово).
-*   **Security & Compliance:** Реализация RBAC/ABAC, OAuth2/JWT, защита API (Rate Limiting, CORS-политики), аудит действий пользователей.
-*   **Performance Tuning:** Профилирование бэкенда (Asyncio, пулы соединений), оптимизация N+1 запросов в БД, кэширование на уровнях (CDN, Redis, in-memory), настройка индексов и партиционирования в PostgreSQL.
-
----
-
-### 🛠 Технический стек (Hands-on Skills)
-*   **Backend (Ядро):** Python 3.11+ (Asyncio, Aiohttp, FastAPI, Django/DRF), SQLAlchemy, Alembic, Pydantic V2, **Go** (для высокопроизводительных утилит).
-*   **Frontend (Интерактивность):** **JavaScript (ES6+)**, **Vue.js (Composition API)**, **React (Hooks)**, HTML5/CSS3, Axios/Fetch, базовое понимание Webpack/Vite.
-*   **Базы данных и Хранилища:** PostgreSQL (оптимизация, партиционирование), Redis (кэширование, сессии, очереди), MongoDB / ClickHouse (аналитика).
-*   **Брокеры и Stream-обработка:** Kafka, RabbitMQ, FastStream, Celery (распределенные задачи, тайминги).
-*   **DevOps & Observability:** Docker, Docker Compose, GitLab CI/CD, GitHub Actions, Nginx, Linux (администрирование), мониторинг (Prometheus + Grafana + AlertManager), сбор логов (ELK / Loki).
-*   **Тестирование:** Стратегии тестирования (Test Pyramid), Pytest, unittest, интеграционные тесты, нагрузочное тестирование (Locust / JMeter).
-
----
-
-### 👥 Управление командой и качеством (Team & Process)
-*   **Technical Leadership:** Наставничество (1-на-1), планирование спринтов, участие в оценке Story Points, помощь команде в разблокировке сложных задач.
-*   **Quality Assurance:** Внедрение **Code Review Culture**, определение и контроль метрик качества кода (SonarQube), написание гайдлайнов по стилю кода (PEP8, ESLint).
-*   **Управление техническим долгом:** Рефакторинг легаси, миграция данных, написание ADR (Architecture Decision Records).
-*   **SDLC:** Построение пайплайнов CI/CD (линтеры, автотесты, сборка артефактов, деплой).
-
 <p align="right"><a href="#-hi-im-artem">⬆️ English version</a></p>
 
 ---
@@ -86,32 +59,5 @@ I design and build **full-cycle web solutions**: from high-load backend architec
 [![Docker](https://img.shields.io/badge/Docker-27.3-blue?style=flat&logo=docker)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-Admin-9cf?style=flat&logo=linux)](https://www.linux.org/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat&logo=prometheus)](https://prometheus.io/)
-
----
-
-### 🧩 Architectural Competencies (System Design & Management)
-*   **System Design:** Choosing between **Monolith-first** and **Microservices** (decomposition strategy), designing **API Gateway**, distributed transaction patterns (Saga, 2PC).
-*   **Integration Patterns:** Message-driven architecture, Event Sourcing + CQRS, working with brokers (Kafka/RabbitMQ) to ensure **Eventual Consistency**.
-*   **Infrastructure Solutions:** Setting up **High Availability** (DB replication, sharding), load balancing (Nginx/HAProxy), containerization and orchestration (Docker Compose / Kubernetes — basic).
-*   **Security & Compliance:** Implementing RBAC/ABAC, OAuth2/JWT, API protection (Rate Limiting, CORS policies), user action auditing.
-*   **Performance Tuning:** Backend profiling (Asyncio, connection pools), optimizing N+1 queries in the DB, multi-level caching (CDN, Redis, in-memory), configuring indexes and partitioning in PostgreSQL.
-
----
-
-### 🛠 Tech Stack (Hands-on Skills)
-*   **Backend (Core):** Python 3.11+ (Asyncio, Aiohttp, FastAPI, Django/DRF), SQLAlchemy, Alembic, Pydantic V2, **Go** (for high-performance utilities).
-*   **Frontend (Interactivity):** **JavaScript (ES6+)**, **Vue.js (Composition API)**, **React (Hooks)**, HTML5/CSS3, Axios/Fetch, basic understanding of Webpack/Vite.
-*   **Databases & Storages:** PostgreSQL (optimization, partitioning), Redis (caching, sessions, queues), MongoDB / ClickHouse (analytics).
-*   **Brokers & Stream Processing:** Kafka, RabbitMQ, FastStream, Celery (distributed tasks, timings).
-*   **DevOps & Observability:** Docker, Docker Compose, GitLab CI/CD, GitHub Actions, Nginx, Linux (administration), monitoring (Prometheus + Grafana + AlertManager), log collection (ELK / Loki).
-*   **Testing:** Testing strategies (Test Pyramid), Pytest, unittest, integration tests, load testing (Locust / JMeter).
-
----
-
-### 👥 Team & Process Management
-*   **Technical Leadership:** Mentorship (1-on-1), sprint planning, participation in Story Point estimation, helping the team unblock complex tasks.
-*   **Quality Assurance:** Implementing **Code Review Culture**, defining and monitoring code quality metrics (SonarQube), writing code style guidelines (PEP8, ESLint).
-*   **Technical Debt Management:** Legacy refactoring, data migration, writing ADR (Architecture Decision Records).
-*   **SDLC:** Building CI/CD pipelines (linters, autotests, artifact builds, deploy).
 
 <p align="right"><a href="#-привет-я-артем">⬆️ Русская версия</a></p>
